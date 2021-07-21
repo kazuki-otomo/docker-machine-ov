@@ -16,7 +16,7 @@ $ docker-machine create --driver ov --help
    --ov-oneview-domain 											HPE OneView: (Option) OneView Domain [$OV_ONEVIEW_DOMAIN]
    --ov-oneview-endpoint "https://oneview.hpe.com"							HPE OneView: OneView Endpoint Address [$OV_ONEVIEW_ENDPOINT]
    --ov-oneview-password "password"									HPE OneView: OneView User Password [$OV_ONEVIEW_PASSWORD]
-   --ov-oneview-server-hardware 									HPE OneView: Traget Server Hardware Name In OneView(E Same As OneView Displayed, Need Spaces Between Strings) [$OV_ONEVIEW_SERVER_HARDWARE]
+   --ov-oneview-server-hardware 									HPE OneView: Target Server Hardware Name In OneView(E Same As OneView Displayed, Need Spaces Between Strings) [$OV_ONEVIEW_SERVER_HARDWARE]
    --ov-oneview-server-profile-template 								HPE OneView: OneView Server Profile Template Name For Target Server Hardware [$OV_ONEVIEW_SERVER_PROFILE_TEMPLATE]
    --ov-oneview-user "administrator"									HPE OneView: OneView User [$OV_ONEVIEW_USER]
    --ov-server-address 											New Server: Target Server Address [$OV_SERVER_ADDRESS]
